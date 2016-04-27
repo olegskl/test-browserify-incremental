@@ -1,0 +1,19 @@
+{
+  "name": "test-browserify-incremental",
+  "version": "1.0.0",
+  "description": "Just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Oleg Sklyanchuk <sklyanchuk@gmail.com> (http://olegskl.com)",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "browserify-incremental": "^3.1.1",
+    "react": "^15.0.1"
+  }
+}
